@@ -8,7 +8,7 @@
    docs/2. 主板及扩展板介绍/Micro：bit V2.2主板.md
    docs/2. 主板及扩展板介绍/Micro：bit 扩展板.md
    docs/2. 主板及扩展板介绍/麦克纳姆轮小车下板(带电机驱动).md
-   docs/3. 安装Micro：bit 驱动/安装Micro：bit 驱动.md
+   docs/3. 资料下载/资料下载.md
    docs/4. MakeCode 教程/4. MakeCode 教程
    docs/5. Python 教程/5. Python 教程.md
    docs/6. APP/Android APP/Android 系统APP.md
